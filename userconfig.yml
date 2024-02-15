@@ -1,0 +1,9 @@
+dataset: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv
+
+plot_config:
+  title: Sepal Length vs Sepal Width
+  xlabel: Width
+  ylabel: Length
+columns:
+  - length
+  - width
